@@ -1,0 +1,31 @@
+{
+  "robo": "Robô Novela Ao Vivo",
+  "id_robo": "robo_novela_ao_vivo",
+  "titular": "Gildevan Carvalho e Silva",
+  "produtor": "Gildevan Carvalho e Silva",
+  "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+  "id_cena": "ep01_cena01",
+  "episodio": 1,
+  "titulo_episodio": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+  "cena": 1,
+  "pilar": "Curiosidade",
+  "duracao_seg": 15,
+  "cenario_real": "Comércio de bairro, rua e casa da família",
+  "formato_video": "1080x1920",
+  "status_fluxo": "postado",
+  "validacao": {
+    "juridica": "APROVADO",
+    "tecnica": "aprovado_tecnicamente"
+  },
+  "publicacao": {
+    "intervalo_horas": 2,
+    "intervalo_segundos": 7200,
+    "postado": true,
+    "postado_em": "2026-11-20T16:05:06"
+  },
+  "conteudo": {
+    "movimento": "Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga.",
+    "fala": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+    "legenda_postagem": "Qual é o verdadeiro valor da Bíblia quando você deixa de olhar só de passagem e faz das palavras sagradas um hábito vivo? Acompanhe essa história sem fim e siga a página para receber os próximos capítulos em primeira mão."
+  }
+}

@@ -1,0 +1,897 @@
+[
+  {
+    "registrado_em": "2026-11-19T21:53:13",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "registrado_em": "2026-11-19T21:54:37",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "registrado_em": "2026-11-19T21:55:32",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "registrado_em": "2026-11-20T11:42:53",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "registrado_em": "2026-11-20T11:44:00",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "registrado_em": "2026-11-20T11:44:19",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "registrado_em": "2026-11-20T11:45:14",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T14:38:04",
+    "producao": {
+      "status_producao": "PRONTO_PARA_RENDERIZACAO_REAL",
+      "chave_video_configurada": true,
+      "chave_voz_configurada": true,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "PRONTO_PARA_ENVIAR_API_REAL"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "PRONTO_PARA_ENVIAR_API_REAL"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "PRONTO_PARA_ENVIAR_API_REAL"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "PRONTO_PARA_ENVIAR_API_REAL"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T14:46:03",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T14:48:58",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T14:49:19",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T15:17:10",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T16:04:29",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "registrado_em": "2026-11-20T16:05:06",
+    "producao": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "total_jobs": 4,
+      "jobs_cenas": [
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Dois personagens discutem no comércio enquanto um terceiro para, ouve com calma e chama atenção para o que está por trás da briga. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Por que tanta discussão sem ouvir? Parar e buscar o sentido real muda a conversa.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 2,
+          "pilar": "Justica",
+          "duracao_seg": 15,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Um morador mais velho entra na cena com firmeza respeitosa, pede respeito mútuo e lembra o valor de honrar quem veio antes. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Justiça e respeito pelos mais velhos mantêm a ordem onde a pressa só causa estrago.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 3,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Na casa da família, as gerações se reúnem à mesa, fazem oração e abrem as palavras sagradas com constância. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a luz aparece.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        },
+        {
+          "robo": "robo_novela_ao_vivo",
+          "titular": "Gildevan Carvalho e Silva",
+          "produtor": "Gildevan Carvalho e Silva",
+          "episodio": 1,
+          "cena": 4,
+          "pilar": "Superacao",
+          "duracao_seg": 20,
+          "cenario": "Comércio de bairro, rua e casa da família",
+          "prompt_movimento_atuacao": "Cena realista em movimento no cenário 'Comércio de bairro, rua e casa da família': Cristo surge com firmeza e compaixão, apontando para o arrependimento, a volta do Senhor e o exemplo de Noé, Enoque e Elias. Expressões naturais, postura humana e continuidade visual.",
+          "texto_fala_voz": "Cristo está voltando: arrependam-se, façam das palavras sagradas hábito firme e sigam para os próximos capítulos em primeira mão.",
+          "formato_video": "1080x1920",
+          "estado_execucao": "ENFILEIRADO_AGUARDANDO_CHAVES_VIDEO_E_VOZ"
+        }
+      ]
+    }
+  }
+]

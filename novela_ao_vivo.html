@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Novela ao Vivo — Simulador em Teste</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+    }
+    header {
+      background: linear-gradient(90deg, #1e293b, #0f766e);
+      padding: 18px 24px;
+      border-bottom: 1px solid #334155;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    header h1 { margin: 0; font-size: 1.35rem; }
+    .badge {
+      background: #fef08a;
+      color: #1e293b;
+      font-weight: 700;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 1120px;
+      margin: 24px auto;
+      padding: 0 18px 40px;
+      display: grid;
+      grid-template-columns: 1.35fr 0.95fr;
+      gap: 20px;
+    }
+    @media (max-width: 860px) {
+      main { grid-template-columns: 1fr; }
+    }
+    .card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      padding: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.28);
+    }
+    .ep-tabs {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .tab-btn {
+      background: #334155;
+      color: #f8fafc;
+      border: none;
+      padding: 9px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    .tab-btn.active {
+      background: #14b8a6;
+      color: #042f2e;
+    }
+    .palco-cena {
+      background: #090d16;
+      border: 1px solid #2dd4bf;
+      border-radius: 12px;
+      padding: 18px;
+      margin: 14px 0;
+    }
+    .cena-topo {
+      display: flex;
+      justify-content: space-between;
+      color: #5eead4;
+      font-weight: 700;
+      margin-bottom: 10px;
+      font-size: 0.92rem;
+    }
+    .fala-box {
+      background: #172554;
+      border-left: 4px solid #60a5fa;
+      padding: 12px 14px;
+      border-radius: 8px;
+      margin-top: 12px;
+      font-size: 1.05rem;
+      line-height: 1.5;
+    }
+    .movimento-box {
+      margin-top: 10px;
+      color: #e2e8f0;
+      line-height: 1.5;
+    }
+    .controles {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+    button.acao {
+      background: #38bdf8;
+      color: #082f49;
+      border: none;
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button.aprovar {
+      background: #22c55e;
+      color: #052e16;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .feed-simulado {
+      background: #ffffff;
+      color: #0f172a;
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .feed-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #e2e8f0;
+      padding-bottom: 10px;
+      margin-bottom: 10px;
+      font-size: 0.88rem;
+    }
+    .status-ok {
+      background: #dcfce7;
+      color: #166534;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.78rem;
+    }
+    .meta-bloco {
+      margin-top: 14px;
+      font-size: 0.9rem;
+      color: #cbd5e1;
+      line-height: 1.45;
+    }
+    ul { padding-left: 18px; margin: 6px 0; }
+    #retornoAprovacao {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 8px;
+      background: #064e3b;
+      color: #d1fae5;
+      display: none;
+      font-size: 0.92rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Novela ao Vivo — Palco de Simulação e Validação</h1>
+      <div style="font-size:0.88rem;opacity:0.9;">Gerado em 19/11/2026 21:24:04 • Modo teste seguro (não publica de verdade)</div>
+    </div>
+    <div class="badge">SIMULADOR VISUAL EM TESTE</div>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="ep-tabs" id="epTabs"></div>
+      <h2 id="epTitulo" style="margin:6px 0 8px;"></h2>
+      <div id="epOrigem" style="color:#94a3b8;font-size:0.92rem;"></div>
+
+      <div class="palco-cena">
+        <div class="cena-topo">
+          <span id="cenaIndicador"></span>
+          <span id="cenaPilar"></span>
+        </div>
+        <div class="movimento-box">
+          <strong>Acontecimento / Movimento na tela:</strong>
+          <div id="cenaMovimento"></div>
+        </div>
+        <div class="fala-box">
+          <strong>Fala da cena:</strong>
+          <div id="cenaFala"></div>
+        </div>
+      </div>
+
+      <div class="controles">
+        <button class="acao" onclick="cenaAnterior()">Cena Anterior</button>
+        <button class="acao" onclick="proximaCena()">Próxima Cena</button>
+        <button class="acao" onclick="alternarReproducao()" id="btnAuto">Reproduzir Cenas</button>
+        <button class="aprovar" onclick="aprovarEpisodio()">Aprovar Este Episódio em Teste</button>
+      </div>
+      <div id="retornoAprovacao"></div>
+
+      <div class="meta-bloco">
+        <strong>Resumo do roteiro:</strong>
+        <p id="epResumo" style="margin:6px 0 10px;"></p>
+        <strong>Referências bíblicas:</strong>
+        <ul id="epReferencias"></ul>
+        <strong>Próximo episódio gerado automaticamente:</strong>
+        <div id="epProximo" style="margin-top:4px;color:#5eead4;"></div>
+      </div>
+    </section>
+
+    <aside class="card">
+      <h3 style="margin-top:0;">Prévia Simulada na Rede (Sem Publicar)</h3>
+      <div class="feed-simulado">
+        <div class="feed-header">
+          <div><strong>História Sem Fim • Fé e Palavra</strong></div>
+          <span class="status-ok" id="juridicoBadge">APROVADO</span>
+        </div>
+        <div id="feedTitulo" style="font-weight:700;margin-bottom:8px;"></div>
+        <div id="feedLegenda" style="font-size:0.94rem;line-height:1.45;margin-bottom:10px;"></div>
+        <div style="background:#f1f5f9;padding:10px;border-radius:8px;font-size:0.86rem;">
+          <div><strong>Cenário real:</strong> <span id="feedCenario"></span></div>
+          <div><strong>Duração total:</strong> <span id="feedDuracao"></span>s</div>
+          <div><strong>Ação do agente:</strong> <span id="feedAcao"></span></div>
+          <div><strong>Token em teste:</strong> <span id="feedToken"></span></div>
+        </div>
+      </div>
+
+      <div class="meta-bloco">
+        <strong>Escala do valor das palavras sagradas:</strong>
+        <ul id="escalaLista"></ul>
+      </div>
+    </aside>
+  </main>
+
+  <script>
+    const episodios = [{"episodio": 1, "executado_em": "2026-11-19T21:24:04", "roteiro": {"titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida", "origem": "Fato real, valor das palavras sagradas e hábito constante vs. confusão do dia a dia", "cenario_real": "Supermercado de bairro, concessionária e casa de família", "referencias_biblicas": ["Josué 1:8 (Meditar na Palavra com constância e fidelidade)", "Salmos 119:105 (As palavras sagradas como lâmpada e luz para o caminho)", "Tiago 1:19 (Parar para ouvir com calma e evitar confusão precipitada)", "Mateus 24 (Sinais dos tempos, arrependimento e volta de Cristo)", "Gênesis 6–7 (Noé), Gênesis 5:22-24 (Enoque) e 1 Reis 18 (Elias)"], "roteiro_resumo": "Mostra o valor real da Bíblia e das palavras sagradas deixadas por Deus e por Cristo através dos profetas e escolhidos: abrir uma, duas ou três vezes sem constância não cria raiz, mas dedicar-se quatro ou cinco dias até virar hábito ilumina a família, reduz confusão, ensina a ouvir e aponta para o arrependimento e a volta de Cristo.", "mensagem_biblica": "As palavras sagradas da Bíblia têm imenso valor quando deixam de ser leitura passageira e viram hábito constante, luz na vida diária e chamado ao arrependimento diante da volta de Cristo.", "cenas": [{"cena": 1, "pilar": "Curiosidade e Justiça", "duracao_seg": 15, "movimento": "No comércio e na concessionária, pessoas discutem por vaidade e aparência enquanto alguém simples mantém a calma, abaixa o tom e para para ouvir.", "fala": "Confusão não compensa: quem aprende a ouvir e valoriza a palavra certa enxerga o que o orgulho esconde."}, {"cena": 2, "pilar": "Empatia e Nostalgia", "duracao_seg": 20, "movimento": "Na casa da família, pais, filhos, netos, bisnetos e tataranetos se reúnem à mesa, oram pelo almoço/janta e abrem as palavras sagradas com constância.", "fala": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a casa muda e a luz aparece."}, {"cena": 3, "pilar": "Revelação Bíblica e Chamado", "duracao_seg": 20, "movimento": "Cristo surge com firmeza e compaixão, destacando o valor eterno das Escrituras, a fidelidade que gera transformação e os sinais dos tempos.", "fala": "Como nos dias de Noé, Enoque e Elias, o tempo se cumpre e Cristo está voltando: arrependam-se e façam das palavras sagradas o alicerce da vida."}, {"cena": 4, "pilar": "Superação e Continuidade", "duracao_seg": 15, "movimento": "A família vive em paz e entendimento, a palavra de fé ganha força e o encerramento chama o público a seguir para os próximos capítulos.", "fala": "Quanto mais a Palavra vira hábito e pregação fiel, mais luz ilumina o caminho. Siga a página para participar dos próximos capítulos em primeira mão."}], "legenda_postagem": "Qual é o verdadeiro valor da Bíblia quando você deixa de olhar só de passagem e faz das palavras sagradas um hábito vivo? Acompanhe essa história sem fim e siga a página para receber os próximos capítulos em primeira mão.", "episodio": 1, "criacao_propria": true, "pilares_espelho": ["Curiosidade", "Empatia", "Justiça", "Nostalgia", "Superação"], "escala_valor_palavras_sagradas": {"1_a_3_vezes_sem_habito": "Apenas olhar ou abrir de vez em quando sem constância não cria raiz profunda nem transforma o rumo do dia a dia.", "4_a_5_dias_com_dedicacao": "Quando a pessoa se dedica de verdade quatro, cinco dias ou mais, a vida começa a mudar, brigas e desconfianças perdem força e a fidelidade abre portas.", "habito_firme_e_luz": "Quando as palavras sagradas viram hábito firme e constante, iluminam como luz, ensinam a ouvir e dão palavra e firmeza para falar da verdade de Deus."}}, "visual": {"estilo_travado": "Filme narrativo em movimento, alta consistência visual de personagens, cenários reais e iluminação natural.", "personagens_fixos": {"cristo": "Figura serena e firme, túnica simples em tom claro, expressão compassiva e vigilante.", "familia_e_geracoes": "Família de origem simples, com idosos, pais, filhos e gerações mais novas interagindo com respeito.", "personagens_cotidianos": "Pessoas em comércio, concessionária e bairro reagindo a conflitos e ao convite ao entendimento."}, "total_cenas_movimento": 4}, "audio_video": {"narracao_e_falas": "Voz humana clara, pausada e envolvente, com ênfase educativa, respeitosa e no valor das palavras sagradas.", "trilha_e_legendas": "Trilha discreta ao fundo e legendas grandes em português.", "duracao_total_seg": 70, "formato_saida": "MP4 vertical (1080x1920) com chamada para seguir e receber em primeira mão"}, "continuidade": {"aprovado_tecnicamente": true, "observacao": "4 cenas com movimento, falas e valor das palavras sagradas verificados."}, "decisao_juridica": {"status": "APROVADO", "avaliado_em": "2026-11-19T21:24:04", "motivos": ["Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."]}, "distribuicao": {"acao": "SIMULACAO_AO_VIVO_EM_TESTE_SEM_POSTAR", "token_disponivel": false, "origem_token": "NENHUMA", "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão", "meta_acompanhamento": "40.000 a 50.000 seguidores"}, "proximo_episodio_gerado_ao_finalizar": {"episodio": 2, "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?", "origem": "Pergunta do público: Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"}}, {"episodio": 2, "executado_em": "2026-11-19T21:24:04", "roteiro": {"titulo": "Pergunta do Público: Por Que Tanta Confusão em Vez de Entendimento?", "origem": "Pergunta do público sobre brigas banais, escuta mútua e valor das palavras sagradas", "cenario_real": "Rua de bairro, comércio e mesa da família", "referencias_biblicas": ["Tiago 1:19 (Ouvir com atenção e evitar ira precipitada)", "Provérbios 15:1 (Resposta branda desvia o furor)", "Salmos 119:105 e Mateus 24 (Luz da Palavra, arrependimento e volta de Cristo)"], "roteiro_resumo": "A partir de uma pergunta do público sobre desavenças pequenas que viram grandes conflitos, o episódio mostra como o valor das palavras sagradas cultivado como hábito traz luz, autoentendimento e chamado ao arrependimento diante da volta de Cristo.", "mensagem_biblica": "O entendimento e a paz nascem quando o valor das palavras sagradas ilumina o coração com constância e fidelidade.", "cenas": [{"cena": 1, "pilar": "Curiosidade", "duracao_seg": 15, "movimento": "Dois vizinhos começam uma discussão por um motivo simples, enquanto um morador intervém com calma pedindo para ouvirem um ao outro.", "fala": "Por que tanta discussão por coisas pequenas? Parar para ouvir e buscar a sabedoria das Escrituras muda a conversa."}, {"cena": 2, "pilar": "Empatia e Nostalgia", "duracao_seg": 20, "movimento": "Em casa, a família agradece a refeição e mantém o hábito das palavras sagradas, passando o exemplo para as gerações seguintes.", "fala": "Quando o valor da Bíblia deixa de ser visita rara e vira hábito firme, a paz entra e a luz ilumina a casa."}, {"cena": 3, "pilar": "Superação e Continuidade", "duracao_seg": 20, "movimento": "Cristo reforça o chamado ao arrependimento diante da volta do Senhor e convida a acompanhar o próximo episódio.", "fala": "Cristo está voltando: arrependa-se, valorize as palavras sagradas e siga a página para receber o próximo capítulo em primeira mão."}], "legenda_postagem": "Respondendo à dúvida do público: como vencer as confusões do dia a dia com entendimento e o valor das palavras sagradas? Siga a página para receber o próximo episódio em primeira mão.", "episodio": 2, "criacao_propria": true, "pilares_espelho": ["Curiosidade", "Empatia", "Justiça", "Nostalgia", "Superação"], "escala_valor_palavras_sagradas": {"1_a_3_vezes_sem_habito": "Apenas olhar ou abrir de vez em quando sem constância não cria raiz profunda nem transforma o rumo do dia a dia.", "4_a_5_dias_com_dedicacao": "Quando a pessoa se dedica de verdade quatro, cinco dias ou mais, a vida começa a mudar, brigas e desconfianças perdem força e a fidelidade abre portas.", "habito_firme_e_luz": "Quando as palavras sagradas viram hábito firme e constante, iluminam como luz, ensinam a ouvir e dão palavra e firmeza para falar da verdade de Deus."}}, "visual": {"estilo_travado": "Filme narrativo em movimento, alta consistência visual de personagens, cenários reais e iluminação natural.", "personagens_fixos": {"cristo": "Figura serena e firme, túnica simples em tom claro, expressão compassiva e vigilante.", "familia_e_geracoes": "Família de origem simples, com idosos, pais, filhos e gerações mais novas interagindo com respeito.", "personagens_cotidianos": "Pessoas em comércio, concessionária e bairro reagindo a conflitos e ao convite ao entendimento."}, "total_cenas_movimento": 3}, "audio_video": {"narracao_e_falas": "Voz humana clara, pausada e envolvente, com ênfase educativa, respeitosa e no valor das palavras sagradas.", "trilha_e_legendas": "Trilha discreta ao fundo e legendas grandes em português.", "duracao_total_seg": 55, "formato_saida": "MP4 vertical (1080x1920) com chamada para seguir e receber em primeira mão"}, "continuidade": {"aprovado_tecnicamente": true, "observacao": "3 cenas com movimento, falas e valor das palavras sagradas verificados."}, "decisao_juridica": {"status": "APROVADO", "avaliado_em": "2026-11-19T21:24:04", "motivos": ["Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."]}, "distribuicao": {"acao": "SIMULACAO_AO_VIVO_EM_TESTE_SEM_POSTAR", "token_disponivel": false, "origem_token": "NENHUMA", "titulo_sugerido": "Pergunta do Público: Por Que Tanta Confusão em Vez de Entendimento? | Siga Para Receber em Primeira Mão", "meta_acompanhamento": "40.000 a 50.000 seguidores"}, "proximo_episodio_gerado_ao_finalizar": {"episodio": 3, "titulo": "Ep. 3 — Por que tantas famílias perdem a paciência e entram em confusão por motivos pequenos?", "origem": "Pergunta do público: Por que tantas famílias perdem a paciência e entram em confusão por motivos pequenos?"}}];
+    let epIndex = 0;
+    let cenaIndex = 0;
+    let timerAuto = null;
+
+    function renderTudo() {
+      const tabsEl = document.getElementById("epTabs");
+      tabsEl.innerHTML = "";
+      episodios.forEach((item, idx) => {
+        const btn = document.createElement("button");
+        btn.className = "tab-btn" + (idx === epIndex ? " active" : "");
+        btn.textContent = "Episódio " + item.episodio;
+        btn.onclick = () => {
+          pararAuto();
+          epIndex = idx;
+          cenaIndex = 0;
+          document.getElementById("retornoAprovacao").style.display = "none";
+          renderTudo();
+        };
+        tabsEl.appendChild(btn);
+      });
+
+      const atual = episodios[epIndex];
+      const rot = atual.roteiro;
+      const cenas = rot.cenas || [];
+      if (cenaIndex >= cenas.length) cenaIndex = 0;
+      const cena = cenas[cenaIndex] || {};
+
+      document.getElementById("epTitulo").textContent = rot.titulo;
+      document.getElementById("epOrigem").textContent = "Origem: " + rot.origem + " | Cenário: " + rot.cenario_real;
+      document.getElementById("cenaIndicador").textContent = "CENA " + (cena.cena || (cenaIndex + 1)) + " de " + cenas.length + " (" + (cena.duracao_seg || 15) + "s)";
+      document.getElementById("cenaPilar").textContent = "Pilar: " + (cena.pilar || "");
+      document.getElementById("cenaMovimento").textContent = cena.movimento || "";
+      document.getElementById("cenaFala").textContent = '"' + (cena.fala || "") + '"';
+
+      document.getElementById("epResumo").textContent = rot.roteiro_resumo;
+      const refUl = document.getElementById("epReferencias");
+      refUl.innerHTML = "";
+      (rot.referencias_biblicas || []).forEach(r => {
+        const li = document.createElement("li");
+        li.textContent = r;
+        refUl.appendChild(li);
+      });
+
+      const prox = atual.proximo_episodio_gerado_ao_finalizar || {};
+      document.getElementById("epProximo").textContent =
+        (prox.episodio ? "Ep. " + prox.episodio + " — " : "") + (prox.titulo || "Gerado ao concluir");
+
+      document.getElementById("juridicoBadge").textContent = atual.decisao_juridica.status;
+      document.getElementById("feedTitulo").textContent = atual.distribuicao.titulo_sugerido || rot.titulo;
+      document.getElementById("feedLegenda").textContent = rot.legenda_postagem;
+      document.getElementById("feedCenario").textContent = rot.cenario_real;
+      document.getElementById("feedDuracao").textContent = atual.audio_video.duracao_total_seg;
+      document.getElementById("feedAcao").textContent = atual.distribuicao.acao;
+      document.getElementById("feedToken").textContent =
+        "Disponível: " + atual.distribuicao.token_disponivel + " (" + atual.distribuicao.origem_token + ")";
+
+      const escUl = document.getElementById("escalaLista");
+      escUl.innerHTML = "";
+      const escala = rot.escala_valor_palavras_sagradas || {};
+      Object.values(escala).forEach(txt => {
+        const li = document.createElement("li");
+        li.textContent = txt;
+        escUl.appendChild(li);
+      });
+    }
+
+    function proximaCena() {
+      const cenas = episodios[epIndex].roteiro.cenas || [];
+      if (!cenas.length) return;
+      cenaIndex = (cenaIndex + 1) % cenas.length;
+      renderTudo();
+    }
+
+    function cenaAnterior() {
+      const cenas = episodios[epIndex].roteiro.cenas || [];
+      if (!cenas.length) return;
+      cenaIndex = (cenaIndex - 1 + cenas.length) % cenas.length;
+      renderTudo();
+    }
+
+    function pararAuto() {
+      if (timerAuto) {
+        clearInterval(timerAuto);
+        timerAuto = null;
+        document.getElementById("btnAuto").textContent = "Reproduzir Cenas";
+      }
+    }
+
+    function alternarReproducao() {
+      if (timerAuto) {
+        pararAuto();
+      } else {
+        document.getElementById("btnAuto").textContent = "Pausar Cenas";
+        timerAuto = setInterval(proximaCena, 3500);
+      }
+    }
+
+    function aprovarEpisodio() {
+      const atual = episodios[epIndex];
+      const box = document.getElementById("retornoAprovacao");
+      box.style.display = "block";
+      box.textContent =
+        "Aprovado em simulação visual: Episódio " + atual.episodio +
+        " ('" + atual.roteiro.titulo + "') validado sem publicação real.";
+    }
+
+    renderTudo();
+  </script>
+</body>
+</html>

@@ -1,0 +1,888 @@
+[
+  {
+    "episodio": 1,
+    "executado_em": "2026-11-19T21:24:04",
+    "roteiro": {
+      "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+      "origem": "Fato real, valor das palavras sagradas e hábito constante vs. confusão do dia a dia",
+      "cenario_real": "Supermercado de bairro, concessionária e casa de família",
+      "referencias_biblicas": [
+        "Josué 1:8 (Meditar na Palavra com constância e fidelidade)",
+        "Salmos 119:105 (As palavras sagradas como lâmpada e luz para o caminho)",
+        "Tiago 1:19 (Parar para ouvir com calma e evitar confusão precipitada)",
+        "Mateus 24 (Sinais dos tempos, arrependimento e volta de Cristo)",
+        "Gênesis 6–7 (Noé), Gênesis 5:22-24 (Enoque) e 1 Reis 18 (Elias)"
+      ],
+      "roteiro_resumo": "Mostra o valor real da Bíblia e das palavras sagradas deixadas por Deus e por Cristo através dos profetas e escolhidos: abrir uma, duas ou três vezes sem constância não cria raiz, mas dedicar-se quatro ou cinco dias até virar hábito ilumina a família, reduz confusão, ensina a ouvir e aponta para o arrependimento e a volta de Cristo.",
+      "mensagem_biblica": "As palavras sagradas da Bíblia têm imenso valor quando deixam de ser leitura passageira e viram hábito constante, luz na vida diária e chamado ao arrependimento diante da volta de Cristo.",
+      "cenas": [
+        {
+          "cena": 1,
+          "pilar": "Curiosidade e Justiça",
+          "duracao_seg": 15,
+          "movimento": "No comércio e na concessionária, pessoas discutem por vaidade e aparência enquanto alguém simples mantém a calma, abaixa o tom e para para ouvir.",
+          "fala": "Confusão não compensa: quem aprende a ouvir e valoriza a palavra certa enxerga o que o orgulho esconde."
+        },
+        {
+          "cena": 2,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "movimento": "Na casa da família, pais, filhos, netos, bisnetos e tataranetos se reúnem à mesa, oram pelo almoço/janta e abrem as palavras sagradas com constância.",
+          "fala": "Abrir a Bíblia uma, duas ou três vezes sem constância não firma a raiz; mas de quatro a cinco dias e virando hábito, a casa muda e a luz aparece."
+        },
+        {
+          "cena": 3,
+          "pilar": "Revelação Bíblica e Chamado",
+          "duracao_seg": 20,
+          "movimento": "Cristo surge com firmeza e compaixão, destacando o valor eterno das Escrituras, a fidelidade que gera transformação e os sinais dos tempos.",
+          "fala": "Como nos dias de Noé, Enoque e Elias, o tempo se cumpre e Cristo está voltando: arrependam-se e façam das palavras sagradas o alicerce da vida."
+        },
+        {
+          "cena": 4,
+          "pilar": "Superação e Continuidade",
+          "duracao_seg": 15,
+          "movimento": "A família vive em paz e entendimento, a palavra de fé ganha força e o encerramento chama o público a seguir para os próximos capítulos.",
+          "fala": "Quanto mais a Palavra vira hábito e pregação fiel, mais luz ilumina o caminho. Siga a página para participar dos próximos capítulos em primeira mão."
+        }
+      ],
+      "legenda_postagem": "Qual é o verdadeiro valor da Bíblia quando você deixa de olhar só de passagem e faz das palavras sagradas um hábito vivo? Acompanhe essa história sem fim e siga a página para receber os próximos capítulos em primeira mão.",
+      "episodio": 1,
+      "criacao_propria": true,
+      "pilares_espelho": [
+        "Curiosidade",
+        "Empatia",
+        "Justiça",
+        "Nostalgia",
+        "Superação"
+      ],
+      "escala_valor_palavras_sagradas": {
+        "1_a_3_vezes_sem_habito": "Apenas olhar ou abrir de vez em quando sem constância não cria raiz profunda nem transforma o rumo do dia a dia.",
+        "4_a_5_dias_com_dedicacao": "Quando a pessoa se dedica de verdade quatro, cinco dias ou mais, a vida começa a mudar, brigas e desconfianças perdem força e a fidelidade abre portas.",
+        "habito_firme_e_luz": "Quando as palavras sagradas viram hábito firme e constante, iluminam como luz, ensinam a ouvir e dão palavra e firmeza para falar da verdade de Deus."
+      }
+    },
+    "visual": {
+      "estilo_travado": "Filme narrativo em movimento, alta consistência visual de personagens, cenários reais e iluminação natural.",
+      "personagens_fixos": {
+        "cristo": "Figura serena e firme, túnica simples em tom claro, expressão compassiva e vigilante.",
+        "familia_e_geracoes": "Família de origem simples, com idosos, pais, filhos e gerações mais novas interagindo com respeito.",
+        "personagens_cotidianos": "Pessoas em comércio, concessionária e bairro reagindo a conflitos e ao convite ao entendimento."
+      },
+      "total_cenas_movimento": 4
+    },
+    "audio_video": {
+      "narracao_e_falas": "Voz humana clara, pausada e envolvente, com ênfase educativa, respeitosa e no valor das palavras sagradas.",
+      "trilha_e_legendas": "Trilha discreta ao fundo e legendas grandes em português.",
+      "duracao_total_seg": 70,
+      "formato_saida": "MP4 vertical (1080x1920) com chamada para seguir e receber em primeira mão"
+    },
+    "continuidade": {
+      "aprovado_tecnicamente": true,
+      "observacao": "4 cenas com movimento, falas e valor das palavras sagradas verificados."
+    },
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-19T21:24:04",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "distribuicao": {
+      "acao": "SIMULACAO_AO_VIVO_EM_TESTE_SEM_POSTAR",
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "proximo_episodio_gerado_ao_finalizar": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?",
+      "origem": "Pergunta do público: Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "episodio": 2,
+    "executado_em": "2026-11-19T21:24:04",
+    "roteiro": {
+      "titulo": "Pergunta do Público: Por Que Tanta Confusão em Vez de Entendimento?",
+      "origem": "Pergunta do público sobre brigas banais, escuta mútua e valor das palavras sagradas",
+      "cenario_real": "Rua de bairro, comércio e mesa da família",
+      "referencias_biblicas": [
+        "Tiago 1:19 (Ouvir com atenção e evitar ira precipitada)",
+        "Provérbios 15:1 (Resposta branda desvia o furor)",
+        "Salmos 119:105 e Mateus 24 (Luz da Palavra, arrependimento e volta de Cristo)"
+      ],
+      "roteiro_resumo": "A partir de uma pergunta do público sobre desavenças pequenas que viram grandes conflitos, o episódio mostra como o valor das palavras sagradas cultivado como hábito traz luz, autoentendimento e chamado ao arrependimento diante da volta de Cristo.",
+      "mensagem_biblica": "O entendimento e a paz nascem quando o valor das palavras sagradas ilumina o coração com constância e fidelidade.",
+      "cenas": [
+        {
+          "cena": 1,
+          "pilar": "Curiosidade",
+          "duracao_seg": 15,
+          "movimento": "Dois vizinhos começam uma discussão por um motivo simples, enquanto um morador intervém com calma pedindo para ouvirem um ao outro.",
+          "fala": "Por que tanta discussão por coisas pequenas? Parar para ouvir e buscar a sabedoria das Escrituras muda a conversa."
+        },
+        {
+          "cena": 2,
+          "pilar": "Empatia e Nostalgia",
+          "duracao_seg": 20,
+          "movimento": "Em casa, a família agradece a refeição e mantém o hábito das palavras sagradas, passando o exemplo para as gerações seguintes.",
+          "fala": "Quando o valor da Bíblia deixa de ser visita rara e vira hábito firme, a paz entra e a luz ilumina a casa."
+        },
+        {
+          "cena": 3,
+          "pilar": "Superação e Continuidade",
+          "duracao_seg": 20,
+          "movimento": "Cristo reforça o chamado ao arrependimento diante da volta do Senhor e convida a acompanhar o próximo episódio.",
+          "fala": "Cristo está voltando: arrependa-se, valorize as palavras sagradas e siga a página para receber o próximo capítulo em primeira mão."
+        }
+      ],
+      "legenda_postagem": "Respondendo à dúvida do público: como vencer as confusões do dia a dia com entendimento e o valor das palavras sagradas? Siga a página para receber o próximo episódio em primeira mão.",
+      "episodio": 2,
+      "criacao_propria": true,
+      "pilares_espelho": [
+        "Curiosidade",
+        "Empatia",
+        "Justiça",
+        "Nostalgia",
+        "Superação"
+      ],
+      "escala_valor_palavras_sagradas": {
+        "1_a_3_vezes_sem_habito": "Apenas olhar ou abrir de vez em quando sem constância não cria raiz profunda nem transforma o rumo do dia a dia.",
+        "4_a_5_dias_com_dedicacao": "Quando a pessoa se dedica de verdade quatro, cinco dias ou mais, a vida começa a mudar, brigas e desconfianças perdem força e a fidelidade abre portas.",
+        "habito_firme_e_luz": "Quando as palavras sagradas viram hábito firme e constante, iluminam como luz, ensinam a ouvir e dão palavra e firmeza para falar da verdade de Deus."
+      }
+    },
+    "visual": {
+      "estilo_travado": "Filme narrativo em movimento, alta consistência visual de personagens, cenários reais e iluminação natural.",
+      "personagens_fixos": {
+        "cristo": "Figura serena e firme, túnica simples em tom claro, expressão compassiva e vigilante.",
+        "familia_e_geracoes": "Família de origem simples, com idosos, pais, filhos e gerações mais novas interagindo com respeito.",
+        "personagens_cotidianos": "Pessoas em comércio, concessionária e bairro reagindo a conflitos e ao convite ao entendimento."
+      },
+      "total_cenas_movimento": 3
+    },
+    "audio_video": {
+      "narracao_e_falas": "Voz humana clara, pausada e envolvente, com ênfase educativa, respeitosa e no valor das palavras sagradas.",
+      "trilha_e_legendas": "Trilha discreta ao fundo e legendas grandes em português.",
+      "duracao_total_seg": 55,
+      "formato_saida": "MP4 vertical (1080x1920) com chamada para seguir e receber em primeira mão"
+    },
+    "continuidade": {
+      "aprovado_tecnicamente": true,
+      "observacao": "3 cenas com movimento, falas e valor das palavras sagradas verificados."
+    },
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-19T21:24:04",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "distribuicao": {
+      "acao": "SIMULACAO_AO_VIVO_EM_TESTE_SEM_POSTAR",
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "titulo_sugerido": "Pergunta do Público: Por Que Tanta Confusão em Vez de Entendimento? | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "proximo_episodio_gerado_ao_finalizar": {
+      "episodio": 3,
+      "titulo": "Ep. 3 — Por que tantas famílias perdem a paciência e entram em confusão por motivos pequenos?",
+      "origem": "Pergunta do público: Por que tantas famílias perdem a paciência e entram em confusão por motivos pequenos?"
+    }
+  },
+  {
+    "episodio": 1,
+    "executado_em": "2026-11-19T21:53:13",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-19T21:53:13",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json"
+    },
+    "distribuicao": {
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "episodio": 1,
+    "executado_em": "2026-11-19T21:54:37",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-19T21:54:37",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json"
+    },
+    "distribuicao": {
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "episodio": 1,
+    "executado_em": "2026-11-19T21:55:32",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-19T21:55:24",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json"
+    },
+    "distribuicao": {
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "episodio": 1,
+    "executado_em": "2026-11-20T11:42:53",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T11:42:53",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "chave_publicacao_ativa": false,
+      "token_disponivel": false,
+      "token_definitivo": true,
+      "origem_token": "NENHUMA",
+      "pode_enviar_real": false,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "TRAVADO_SEM_TOKEN_OU_CHAVE_ATIVA",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "detalhes": {
+        "chave_publicacao_ativa": false,
+        "token_disponivel": false,
+        "token_definitivo": true,
+        "origem_token": "NENHUMA",
+        "pode_enviar_real": false
+      }
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "episodio": 1,
+    "executado_em": "2026-11-20T11:44:00",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T11:44:00",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "chave_publicacao_ativa": false,
+      "token_disponivel": false,
+      "token_definitivo": true,
+      "origem_token": "NENHUMA",
+      "pode_enviar_real": false,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "TRAVADO_SEM_TOKEN_OU_CHAVE_ATIVA",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "detalhes": {
+        "chave_publicacao_ativa": false,
+        "token_disponivel": false,
+        "token_definitivo": true,
+        "origem_token": "NENHUMA",
+        "pode_enviar_real": false
+      }
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "episodio": 1,
+    "executado_em": "2026-11-20T11:44:19",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T11:44:11",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "chave_publicacao_ativa": false,
+      "token_disponivel": false,
+      "token_definitivo": true,
+      "origem_token": "NENHUMA",
+      "pode_enviar_real": false,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "TRAVADO_SEM_TOKEN_OU_CHAVE_ATIVA",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "detalhes": {
+        "chave_publicacao_ativa": false,
+        "token_disponivel": false,
+        "token_definitivo": true,
+        "origem_token": "NENHUMA",
+        "pode_enviar_real": false
+      }
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "episodio": 1,
+    "executado_em": "2026-11-20T11:45:14",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T11:45:14",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "chave_publicacao_ativa": false,
+      "token_disponivel": false,
+      "token_definitivo": true,
+      "origem_token": "NENHUMA",
+      "pode_enviar_real": false,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "TRAVADO_SEM_TOKEN_OU_CHAVE_ATIVA",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "detalhes": {
+        "chave_publicacao_ativa": false,
+        "token_disponivel": false,
+        "token_definitivo": true,
+        "origem_token": "NENHUMA",
+        "pode_enviar_real": false
+      }
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T14:38:04",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T14:38:04",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "PRONTO_PARA_RENDERIZACAO_REAL",
+      "total_jobs": 4,
+      "chave_video_configurada": true,
+      "chave_voz_configurada": true,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "VARIAVEL_AMBIENTE",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T14:38:04"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T14:46:03",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T14:46:03",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "VARIAVEL_AMBIENTE",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T14:46:03"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T14:48:58",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T14:48:58",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "VARIAVEL_AMBIENTE",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T14:48:58"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T14:49:19",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T14:49:19",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "VARIAVEL_AMBIENTE",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T14:49:19"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T15:17:10",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T15:17:10",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "VALIDACAO_OK_MODO_TESTE_SEM_POSTAR",
+      "chave_publicacao_ativa": false,
+      "token_disponivel": false,
+      "origem_token": "NENHUMA",
+      "pode_enviar_real": false,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "TRAVADO_SEM_TOKEN_OU_CHAVE_ATIVA",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "detalhes": {
+        "chave_publicacao_ativa": false,
+        "token_disponivel": false,
+        "origem_token": "NENHUMA",
+        "pode_enviar_real": false
+      }
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T16:04:29",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T16:04:29",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "CODIGO_LOCAL",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T16:04:29"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  },
+  {
+    "robo": "Robô Novela Ao Vivo",
+    "id_robo": "robo_novela_ao_vivo",
+    "titular": "Gildevan Carvalho e Silva",
+    "produtor": "Gildevan Carvalho e Silva",
+    "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+    "episodio": 1,
+    "executado_em": "2026-11-20T16:05:06",
+    "titulo": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida",
+    "decisao_juridica": {
+      "status": "APROVADO",
+      "avaliado_em": "2026-11-20T16:05:06",
+      "motivos": [
+        "Aprovado: criação própria, valor das palavras sagradas preservado, proteção ao titular e conformidade legal."
+      ]
+    },
+    "producao_video_voz": {
+      "status_producao": "MODO_PREPARACAO_DE_JOBS_SEM_CHAVES_EXTERNAS",
+      "total_jobs": 4,
+      "chave_video_configurada": false,
+      "chave_voz_configurada": false,
+      "arquivo_fila": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_producao_video.json",
+      "arquivos_cenas_pasta": [
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena02.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena03.json",
+        "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena04.json"
+      ]
+    },
+    "distribuicao": {
+      "robo": "Robô Novela Ao Vivo",
+      "titular": "Gildevan Carvalho e Silva",
+      "produtor": "Gildevan Carvalho e Silva",
+      "funcao_robo": "Robô técnico de anúncio, postagem e automação de cenas",
+      "acao": "PRONTO_PARA_PUBLICAR_NUVEM",
+      "chave_publicacao_ativa": true,
+      "token_disponivel": true,
+      "origem_token": "CODIGO_LOCAL",
+      "pode_enviar_real": true,
+      "intervalo_postagem_horas": 2,
+      "titulo_sugerido": "O Valor da Bíblia e das Palavras Sagradas: Quando a Luz Entra na Vida | Siga Para Receber em Primeira Mão",
+      "meta_acompanhamento": "40.000 a 50.000 seguidores"
+    },
+    "ciclo_pasta": {
+      "status_ciclo": "POSTADO_COM_SUCESSO",
+      "arquivo_cena": "C:\\Users\\francisco cardoso\\Desktop\\Novela_Ao_Vivo\\fila_cenas\\ep01_cena01.json",
+      "id_cena": "ep01_cena01",
+      "postado_em": "2026-11-20T16:05:06"
+    },
+    "proximo_episodio_gerado": {
+      "episodio": 2,
+      "titulo": "Ep. 2 — Qual é o verdadeiro valor da Bíblia quando ela vira hábito e não apenas leitura de vez em quando?"
+    }
+  }
+]
